@@ -1,0 +1,13 @@
+Keo remote ve
+git pull
+
+
+Add all file
+git add .
+
+Commit
+git commit -m "Noi dung commit"
+
+Day len remote
+git push
+
