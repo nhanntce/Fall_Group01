@@ -1,0 +1,13 @@
+Theme 1: 
+màu 1 : #41AEA9
+Màu 2: #A6F6F1
+màu 3 : #213E3B
+màu 4: #F5F5F5
+
+
+Theme 2 : 
+Search : #E6E6E6
+header : #E6739F
+Button : #CC0E74
+background : #F1D4D4
+Chu: #FF0000
