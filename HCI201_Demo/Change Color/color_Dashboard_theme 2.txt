@@ -1,6 +1,0 @@
-	Menu (main)	Hover table	Text	background	back table, search, pagging
-Bo 1	#2e4dd4		#eeeeee		#2a3643	#e1e2e4		#ffffff
-	#393b44		#eeeeee		#2a3643	#f1f3f8		#ffffff
-	#31326f		#eeeeee		#2a3643	#ffdada		#ffffff
-	#056676		#eeeeee		#2a3643	#e8ded2		#ffffff
-	#389393		#eeeeee		#2a3643	#ebebeb		#ffffff
