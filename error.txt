@@ -1,0 +1,5 @@
+them trang print bill
+chinh total money cua User
+sai popup delete cua Admin
+item duoc chon hightlight len
+chinh total trong trong Employee (mau sac)
